@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img source = "https://projecteuler.net/profile/assburgers.png">
+<img src = "https://projecteuler.net/profile/assburgers.png" >
